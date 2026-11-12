@@ -1,5 +1,9 @@
 # PySnake
 
+<p align="center">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysnake-icon.png?w=300" alt="Official PySnake application icon: a blue and cyan snake curled around a padlock on a dark navy background." width="112" height="112">
+</p>
+
 **A personal encrypted data vault for Windows.**
 
 <sub>Windows-first · Local-first · In active development · Not production-ready</sub>
@@ -43,6 +47,24 @@ The current application includes work on:
 - Audio and video previews using the Windows media stack, with codec coverage still limited.
 
 Some of these areas are still being integrated and tested. In particular, the internal browser's broader user experience and several end-to-end workflows remain unfinished.
+
+## Screenshots from the development build
+
+The following images are selected captures from the current Windows development build. They illustrate the account-template chooser and the integrated browser; they do **not** imply that every associated workflow has passed final acceptance.
+
+### Account and record templates
+
+<p align="center">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysnake-add-account-templates-public.png" alt="PySnake development interface showing the Add Item template chooser with login, payment card, bank account, crypto wallet, exchange, identity document, software licence, API key and SSH templates. Personal information in the original capture has been obscured." width="100%">
+</p>
+
+### Integrated internal browser
+
+<p align="center">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysnake-internal-browser.png" alt="PySnake development window with an integrated Chromium-based browser displaying a web page inside the application. The browser account avatar has been obscured for privacy." width="100%">
+</p>
+
+The screenshots are illustrative development captures. Internal-browser workflows remain under active development.
 
 ## Current development status
 
