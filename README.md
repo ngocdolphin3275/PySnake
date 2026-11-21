@@ -139,7 +139,7 @@ The roadmap is directional; it is not a delivery-date commitment. No release dat
 - **Product page:** [PySnake on NgocDolphin](https://ngocdolphincom.wordpress.com/pysnake/)
 - **Vietnamese product page:** [PySnake — NgocDolphin (Tiếng Việt)](https://ngocdolphincom.wordpress.com/vi/pysnake/)
 - **Publisher:** [NgocDolphin](https://ngocdolphincom.wordpress.com/)
-- **Feedback:** [here](mailto:ngocdolphin3275@portal.me)
+- **Feedback:** [Send me an email here.](mailto:ngocdolphin3275@portal.me)
 
 
 ## Repository scope
