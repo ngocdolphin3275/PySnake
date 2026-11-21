@@ -141,6 +141,11 @@ The roadmap is directional; it is not a delivery-date commitment. No release dat
 - **Publisher:** [NgocDolphin](https://ngocdolphincom.wordpress.com/)
 - **Feedback and issue reports:** [GitHub Issues](https://github.com/ngocdolphin3275/PySnake/issues)
 
+
+## Repository scope
+
+This public repository is currently a **project-information page**. It contains the public product overview and status information; it does not publish the private application source code, development logs, test fixtures, vault data, build outputs or downloadable binaries.
+
 ---
 
 <sub>PySnake · An independent NgocDolphin project · Public status updated 2026-11-21 · Latest documented development build: 0.1.0+12 (checkpoint: 2026-11-08)</sub>
